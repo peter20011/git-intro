@@ -18,4 +18,9 @@ Zadanie 4. (\*) Zmień punkty w taki sposób aby ich treść zamiast zaczynać s
 Zadanie 5. (\*)  Dodaj informację numerach albumów członków zespołu w dowolny miejscu tego dokumentu (wraz z informację, że są to numery albumów członków zespołu)(-)\
 Zadanie 6. (\*)  Zmień miejscami ćwiczenia których treść kończy się znakami `(-)` (numeracja powinna pozostać poprawna).\
 Zadanie 7. (\*) Dodaj słowa `Zadania do wykonania` przed listą ćwiczeń.\
-Zadanie 8. Zmień nagłówek z `git-intro` na `Wstęp do gita`. (-)
+Zadanie 8. (\*) Zmień nagłówek z `git-intro` na `Wstęp do gita`. (-)
+
+Numery albumów członków zespłu:
+138158
+138151
+138161
